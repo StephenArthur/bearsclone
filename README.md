@@ -14,4 +14,4 @@ instructions in each exercise folder. Solutions should not be merged back.
 
 ## Contents
 
-TBC
+Bears 1 - Introduction to Ruby
