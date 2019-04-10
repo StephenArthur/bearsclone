@@ -15,3 +15,4 @@ instructions in each exercise folder. Solutions should not be merged back.
 ## Contents
 
 Bears 1 - Introduction to Ruby
+Bears 2 - More Ruby
