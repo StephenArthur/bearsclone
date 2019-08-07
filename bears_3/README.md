@@ -1,0 +1,2 @@
+## To whom it may concern
+The last developer to work on our Yahtzee scoring system had to leave the company urgently, halway through a code review. Their code seems to work but it needs a quick refactor before it hits production, you're here because your manager thinks you're the dev for the job.
