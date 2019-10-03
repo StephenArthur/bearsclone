@@ -173,22 +173,3 @@ class YahtSco
     100 * (yahtzee_count - 1)
   end
 end
-
-sc = {
-  set_of_1s: [1,3,1,2,4],
-  set_of_2s: [1,3,1,2,4],
-  set_of_3s: [1,3,1,2,4],
-  set_of_4s: [1,3,1,2,4],
-  set_of_5s: [5,5,5,5,5],
-  set_of_6s: [6,6,6,6,6],
-  three_of_a_kind: [2,2,2,4,5],
-  four_of_a_kind: [2,2,3,4,5],
-  full_house: [2,2,3,3,3],
-  short_straight: [2,2,3,4,5],
-  long_straight: [1,2,3,4,5],
-  yahtzee: [2,2,3,4,5],
-  chance: [2,2,3,4,5]  
-}
-
-x = YahtSco.new(sc)
-x.do_a_thing
